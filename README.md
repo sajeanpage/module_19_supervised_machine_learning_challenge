@@ -12,7 +12,7 @@ After reviewing the data, I concluded that a Logistic Regression model would sco
 After comparing the models I have determined the following:
 - The Logistic Regression model modelled the data exceptionally well with training and testing scores exceeding 99%
 - The Random Forest Classifier modelled the data exceptionally as well also with training and testing scores exceeding 99%
-- Both models performed to near perfection. Confusion matrices for the Logistic Regression model and Random Forest Classifier are in red and blue respectively.
+- Both models performed to near perfection. Confusion matrices for the Logistic Regression model and Random Forest Classifier are in blue and red respectively.
 
 # ![banner](https://github.com/sajeanpage/module_19_supervised_machine_learning_challenge/blob/2ccf3812a6cb3fba73b141bcb8b88de2e01712df/Resources/matrix.JPG)
 
