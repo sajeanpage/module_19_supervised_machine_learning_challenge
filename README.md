@@ -12,7 +12,7 @@ After analyzing some of the data I have determined the following:
 - Bikes that were the most used usually completed their rides near an interstate, bridge, or a major transportation connector
 - Visit the story here:  https://public.tableau.com/app/profile/sarje.page/viz/CitiBikeNYStoryRidersandBikes/CitiBikeNYStoryRidersandBikes
 
-# ![banner](https://github.com/sajeanpage/module_18_tableau_challenge/blob/72414a9960ba2fefd621addc432345ae4d738c43/dashboard.PNG)
+# ![banner](https://github.com/sajeanpage/module_19_supervised_machine_learning_challenge/blob/2ccf3812a6cb3fba73b141bcb8b88de2e01712df/Resources/matrix.JPG)
 
 - References
   - CityBike, System-Data. (2022). CitiBike Trip Data. Retrieved from https://ride.citibikenyc.com/system-data
